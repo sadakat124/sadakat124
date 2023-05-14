@@ -1,4 +1,4 @@
-![logo](https://venturebeat.com/wp-content/uploads/2021/02/GitHub-screen.jpg?w=1200&strip=all)
+![logo](https://wallpapercave.com/wp/wp2105387.jpg)
 <h1 align="center">Hi 👋, I'm Sadakat Sanglikar</h1>
 <h3 align="center">A passionate Computer Science Student from India</h3>
 
